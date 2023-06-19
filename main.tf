@@ -5,6 +5,6 @@ provider "aws" {
 }
 
 resource "aws_s3_bucket" "one" {
-   bucket = "s3project1"
+   bucket = "s3prjdndfsdoject1"
 }
 
